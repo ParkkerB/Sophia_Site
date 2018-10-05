@@ -51,6 +51,12 @@
     background-color: #ddd;
     color: black;
 }
+.AboutMe {
+    height: 200px;
+    width: 200px;
+    float: left;
+
+}
 
 .row {
     display: -ms-flexbox;
