@@ -57,6 +57,17 @@
 
 }
 
+.FirstPic {
+  height: 440px;
+  width: 400px;
+
+}
+
+.SecondPic {
+  height: 440px;
+  width: :400px;
+
+}
 .row {
     display: -ms-flexbox;
     display: flex;
