@@ -73,6 +73,9 @@
     display: flex;
     -ms-flex-wrap: wrap;
     flex-wrap: wrap;
+    object-fit: cover;
+    width:auto;
+    height: auto;
 }
 
 .side {
@@ -84,9 +87,9 @@
 
 .main {
     -ms-flex: 70%;
-    flex: 70%;
+    flex: 90%;
     background-color: white;
-    padding: 20px;
+    padding: 60px;
 }
 
 
