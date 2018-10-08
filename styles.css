@@ -54,7 +54,9 @@
 .AboutMe {
     height: 440px;
     width: 400px;
-
+    float: left;
+    padding-top: 30px;
+    padding-bottom: 30px;
 }
 
 .FirstPic {
