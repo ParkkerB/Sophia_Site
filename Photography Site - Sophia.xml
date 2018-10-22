@@ -1,0 +1,23 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/css" href="styles.css" ?>
+<title lang="en">Sophia Shoots</title>
+   <byline>Our Staff</byline>
+      <header>Professional Photographer</header>
+<info>Specializing in Personal and Non-Profit Photography</info>
+
+<nav>
+<page> Gallery </page>
+<page> Non profit photography </page>
+<page> Contact </page>
+</nav>
+
+<info>
+  <byline>About Me</byline>
+     <info> This page focuses a lot around my long-time fascination with photography's ability to capture stories and immortalize memories.
+Photography allows me to work with wonderful people to create, capture and share stories in an authentic way. I would love to learn more about you!            </info>
+     <location> Currently based in Chicago, but willing to travel - Sophia
+     </location>
+</info>
+<image_url> </image_url>
+<image_url> </image_url>
+<image_url> </image_url>
