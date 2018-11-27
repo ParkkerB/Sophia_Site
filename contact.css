@@ -82,6 +82,22 @@
     padding: 60px;
 }
 
+form {
+  margin-top: 50px;
+  transition: all 4s ease-in-out;
+}
+.form-control{
+  width: 600px;
+  background: transparent;
+  border: none;
+  outline: none;
+  border-bottom: 1px cornflowerblue;
+  font-size: 18px;
+  margin-bottom: 16px;
+}
+
+  
+}
 
 .footer {
     padding: 20px;
